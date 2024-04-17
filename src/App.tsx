@@ -50,8 +50,9 @@ function App() {
     return () => clearInterval(interval);
   }, [tracks, loading]);
 
+
   useEffect(() => {
-    const sdk = SpotifyApi.withUserAuthorization(CLIENT_ID, "http://localhost:3000", [
+    const sdk = SpotifyApi.withUserAuthorization(CLIENT_ID, window.location.href, [
       "user-library-read"
     ]);
 
