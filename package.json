@@ -2,7 +2,7 @@
   "name": "karacanto",
   "version": "0.1.0",
   "private": true,
-  "homepage": "canto.blw.sh",
+  "homepage": "https://blwsh.github.io/canto",
   "dependencies": {
     "@spotify/web-api-ts-sdk": "^1.2.0",
     "@testing-library/jest-dom": "^5.17.0",
