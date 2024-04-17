@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/canto.blw.sh/static/css/main.be897f3b.css",
+    "main.js": "/canto.blw.sh/static/js/main.d169857d.js",
+    "static/js/453.bf039081.chunk.js": "/canto.blw.sh/static/js/453.bf039081.chunk.js",
+    "index.html": "/canto.blw.sh/index.html",
+    "main.be897f3b.css.map": "/canto.blw.sh/static/css/main.be897f3b.css.map",
+    "main.d169857d.js.map": "/canto.blw.sh/static/js/main.d169857d.js.map",
+    "453.bf039081.chunk.js.map": "/canto.blw.sh/static/js/453.bf039081.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be897f3b.css",
+    "static/js/main.d169857d.js"
+  ]
+}
